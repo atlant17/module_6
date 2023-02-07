@@ -1,0 +1,15 @@
+body {
+    font-size: 25px;
+}
+
+#consoleLog {
+    color: rgb(255, 217, 0);
+}
+
+#alert {
+    color: red;
+}
+
+#prompt {
+    color: rgb(7, 7, 136);
+}

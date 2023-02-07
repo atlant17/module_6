@@ -1,0 +1,25 @@
+#trafficLightRed {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+}
+
+#trafficLightYellow {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+}
+
+#trafficLightGreen {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+}
+
+div {
+    margin-left: 200px;
+    margin-top: 8px;
+}
